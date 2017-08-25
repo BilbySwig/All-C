@@ -1,0 +1,23 @@
+import java.util.*;
+public class LemonadeStand {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc= new Scanner(System.in);
+		final double lemCost=.79;
+		final double brownCost=1.29;
+		
+		int numBrownies=0;
+		int numLemonades=0;
+		String Name;
+		
+		System.out.println("What's your name?");
+		Name=sc.next();
+		System.out.println(Name);
+		
+	
+	
+	
+	}
+
+}

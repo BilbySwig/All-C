@@ -1,0 +1,91 @@
+NAME:Homeworld:Species:Gender:Position
+4-LOM:Unknown:Droid:Male:Bounty Hunter
+Aayla Secura:Ryloth:Twi'lek:Female:Jedi Knight
+Adi Gallia:Coruscant:Human:Female:Jedi Master
+Admiral Ackbar:Mon Calamari:Mon Calamari:Male:Supreme Commander Rebel Fleet
+Ahsoka Tano:Shili:Togruta:Female:Jedi Padawan
+Ak-rev:Sriluur:Weequay:Male:Drummer
+Anakin Skywalker:Tatooine:Human:Male:Jedi Knight
+Asajj Ventress:Rattatak:Rattatakian:Female:Dark Jedi
+Ask Aak:Malastare:Gran:Male:Senator
+Aved Luun:Tatooine:Jawa:Female:Shaman
+Bail Antilles:Alderaan:Human:Male:Senator
+Bail Organa:Alderaan:Human:Male:Senator
+Barriss Offee:Unknown:Mirialan:Female:Jedi Knight
+Bib Fortuna:Ryloth:Twi'lek:Male:Criminal
+Biggs Darklighter:Tatooine:Human:Male:X-Wing Pilot
+Boba Fett:Mandalore:Human:Male:Bounty Hunter
+Bossk:Trandosha:Trandoshan:Male:Bounty Hunter
+Bultar Swan:Kuat:Human:Female:Jedi Knight
+C-3PO:Tatooine:Droid:Male:Protocol Droid
+Cal Alder:Kal'Shebbol:Human:Male:Scout
+Captain Panaka:Naboo:Human:Male:Captain Naboo Security Forces
+Chewbacca:Kashyyyk:Wookie:Male:Co-Pilot Millennium Falcon
+Chief Chirpa:Endor:Ewok:Male:Tribe Chief
+Coleman Trebor:Sembla:Vurk:Male:Jedi Master
+Count Dooku:Serenno:Human:Male:Sith Lord
+Crix Madine:Corellia:Human:Male:Rebel General
+Darth Maul:Iridonia:Iridonian:Male:Sith Lord
+Darth Vader:Tatooine:Human:Male:Sith Lord
+Dengar:Corellia:Human:Male:Bounty Hunter
+Depa Billaba:Coruscant:Chalactan:Female:Jedi Knight
+Dorovio Bold:Unknown:Human:Female:X-Wing Pilot
+Droopy McCool:Kirdo III:Kitonak:Male:Horn Player
+Eeth Koth:Nar Shaddaa:Iridonian Zabrak:Male:Jedi Master
+Emperor Palpatine:Naboo:Human:Male:Senator
+Finis Valorum:Coruscant:Human:Male:Supreme Chancellor
+Firmus Piett:Axxila:Human:Male:Imperial Admiral
+Gardulla the Hutt:Nal Hutta:Hutt:Female:Criminal
+General Carlist Rieekan:Alderaan:Human:Male:Rebel Commander
+General Grievous:Kalee:Kaleesh:Male:Commander Droid Army
+Greeata Jendowanian:Rodia:Rodian:Female:Back-up Singer
+Greedo:Rodia:Rodian:Male:Bounty Hunter
+Grizz Frix:Devaron:Human:Male:X-Wing Pilot
+Han Solo:Corellia:Human:Male:Mercenary
+IG-88:Holowan Laboratories:Droid:Male:Bounty Hunter
+Jabba the Hutt:Nal Hutta:Hutt:Male:Crime Lord
+Jango Fett:Concord Dawn:Human:Male:Bounty Hunter
+Jar Jar Binks:Naboo:Gungan:Male:Idiot
+Jek Porkins:Bestine IV:Human:Male:X-Wing Pilot
+Kendal Ozzel:Carida:Human:Male:Imperial Admiral
+Ki-Adi-Mundi:Cerea:Cerean:Male:Jedi Master
+Ko Sai:Kamino:Kaminoan:Female:Scientist
+Lama Su:Kamino:Kaminoan:Male:Prime Minister Kamino
+Lando Calrissian:Socorro:Human:Male:Scoundrel
+Lobot:Bespin:Human/Cyborg:Male:Cloud City Administrator
+Logray:Endor:Ewok:Male:Medicine Man
+Luke Skywalker:Tatooine:Human:Male:Jedi Knight
+Luminara Unduli:Mirial:Mirialan:Female:Jedi Master
+Lyn Me:Ryloth:Twi'lek:Female:Dancer
+Mace Windu:Haruun Kal:Korun:Male:Jedi Master
+Mas Amedda:Champala:Chagrian:Male:Vice Chair Galactic Senate
+Max Rebo:Orto:Ortolan:Male:Band Leader
+Moff Jerjerrod:Unknown:Human:Male:Imperial Officer
+Mon Mothma:Chandrila:Human:Female:Leader Rebel Alliance
+Nippet:Endor:Ewok:Female:Baby
+Nute Gunray:Neimoidia:Neimoidian:Male:Viceroy Trade Federation
+Obi-Wan Kenobi:Unknown:Human:Male:Jedi Master
+Oola:Ryloth:Twi'lek:Female:Dancer
+Padme Amidala:Naboo:Human:Female:Senator
+Paploo:Endor:Ewok:Male:Scout
+Plo Koon:Dorin:Kel Dor:Male:Jedi Master
+Poggle the Lesser:Genosis:Geonosian:Male:Archduke of Genosis
+Princess Leia Organa:Alderaan:Human:Female:Leader Rebel Alliance
+Qui-Gon-Jinn:Coruscant:Human:Male:Jedi Master
+R2-D2:Naboo:Droid:Male:Astromech Droid
+Ree-Yees:Kinyen:Gran:Male:Criminal
+Saesee Tiin:Iktotch:Iktotchi:Male:Jedi Master
+Sally:Earth:Human:Female:Senator
+Sar Labooda:Chalacta:Human:Female:Jedi Knight
+Shaak Ti:Shili:Togruta:Female:Jedi Master
+Shmi Skywalker:Tatooine:Human:Female:Slave
+Shu Mai:Castell:Gossam:Female:Commerce Guild
+Sly Moore:Umbara:Umbaran:Female:Aide to Chancellor Palpatine
+Tessek:Mon Calamari:Quarren:Male:Criminal
+Tey How:Neimoidia:Neimoidian:Female:Communications Officer Trade Federation
+Watto:Tatooine:Toydarian:Male:Junk Store Owner
+Wedge Antilles:Corellia:Human:Male:X-Wing Pilot
+Wicket Warrick:Endor:Ewok:Male:Cute
+Wilhuff Tarkin:Eriadu:Human:Male:Death Star Commander
+Yoda:Unknown:Unknown:Male:Jedi Master
+Zuckuss:Gand:Gand:Male:Bounty Hunter

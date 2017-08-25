@@ -1,0 +1,72 @@
+import java.awt.Color;
+import java.awt.Graphics2D;
+import java.util.ArrayList;
+
+
+public class MyFractalPanel extends FractalPanel{
+	//INHERITED THIS FROM DAD: don't uncomment these!
+	//protected Graphics2D myGraphics;	<<--- Your crayon
+	//protected int totalLevels; <<---how many levels you need to draw
+	//protected Color bgColor = Color.WHITE;
+	private ArrayList<Color> colorscheme;
+	public static void main(String[] args) {
+		new FractalFrame( new MyFractalPanel());
+	}
+	
+	public void getStarted(int numLevels){
+		//the image is cleared (set to blank & white)
+		super.getStarted(numLevels);
+		/********************************************************
+		 * 	Place the FIRST call to recursive drawing function here!!
+		/********************************************************/
+		RandomColorScheme();
+		Coordinate[] corners=new Coordinate[2]; 
+		corners[0]=new Coordinate(250,800);
+		corners[1]=new Coordinate(400,800);//two points that the squares will sprout off of
+		recur(0, corners[0],corners[1]);//recursive call
+	}//end getStarted
+	
+	/*Preconditions:
+	 * 	g is the graphics object for the bufferedImage to which the fractal will be drawn
+	 * 
+	 *Postconditions: Part of the current level is drawn, and recurvsive calls are executed
+	 *      that will draw the next level of the fractal 
+	 */
+	//private void recursiveDraw(Graphics2D g, Color c, int num, int x, int y, int sz){
+	private void recur(int levelsDrawn, Coordinate botleft, Coordinate botright){
+		pause(30.0/totalLevels, levelsDrawn);
+		if(levelsDrawn>=totalLevels)//stopping state when enough levels are drawn
+			return;
+		
+		Coordinate topright=new Coordinate(botleft);
+		Coordinate topleft=new Coordinate(botright);
+		topright.rotateAround(botright,-Math.PI/2);
+		topleft.rotateAround(botleft,Math.PI/2);
+		Coordinate[] corners={botleft,botright,topright,topleft};
+		EZPolygon sqr=new EZPolygon(corners);
+		sqr.draw(myGraphics, colorscheme.get(levelsDrawn%colorscheme.size()),Color.BLUE,1,true,false);
+		
+		Coordinate tri= new Coordinate(topleft);
+		tri.rotateAndScale(topright, -Math.PI/6, Math.sqrt(3)/2);
+		Coordinate[] triangle={topright,topleft,tri};
+		sqr=new EZPolygon(triangle);
+		sqr.draw(myGraphics, colorscheme.get(levelsDrawn%colorscheme.size()),Color.BLUE,1,true,false);
+		
+		recur(levelsDrawn+1,tri,topright);
+		recur(levelsDrawn+1,topleft,tri);
+	}//end recur function
+	private void RandomColorScheme(){
+		colorscheme=new ArrayList<Color>();
+		int r=(int)(Math.random()*256), g=(int)(Math.random()*256), b=(int)(Math.random()*256),change=5;
+		for(int i=0;i<=256;i++){
+			colorscheme.add(new Color(r,g,b));
+			r=(r+change)%255;
+			g=(g+change)%255;
+			b=(b+change)%255;
+		}
+			
+	
+	
+	
+	}
+}

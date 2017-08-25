@@ -1,0 +1,33 @@
+Mr. Jones:Counting Crows:August & Everything After:Alternative:0.99
+One:U2:Achtung Baby:Pop:1.99
+Carnival:Natalie Merchant:Tigerlily:Alternative:0.99
+Use Somebody:Kings of Leon:Only by the Night:Pop:1.99
+These Are Days:10,000 Maniacs:Our Time in Eden:Alternative:0.99
+Firework:Katy Perry:Teenage Dream:Pop:1.99
+It's the End of the World As We Know It:REM:Document:Alternative:0.99
+Just The Way You Are:Bruno Mars:Doo-Waps & Hooligans:Pop:0.99
+Back To December:Taylor Swift:Speak Now:Country:1.99
+Baby:Justin Beiber:Live:Pop:0.99
+Only Girl:Rihanna:Only Girl:R&B:1.99
+DJ Got Us Fallin In Love:Usher:DJ Got Us Fallin In Love:R&B:1.99
+Just A Dream:Nelly:5.0:R&B:1.99
+Somewhere With You:Kenny Chesney:Hemingway's Whiskey:Country:0.99
+Rhythm of Love:Plain White T's:Rhythm of Love:Pop:0.99
+Teenage Dream:Katy Perry:Teenage Dream:Pop:1.99
+Animal:Neon Trees:Habits:Pop:0.99
+Never Say Never:Justin Beiber:Never Say Never:Pop:0.99
+Don't Stop Believing:Journey:Greatest Hits:Rock:0.45
+For The First Time:The Script:Science & Faith:Pop:0.99
+Dead or Alive:Bon Jovi:Unplugged:Rock:0.45
+Smells Like Teen Spirit:Nirvana:Unplugged:Alternative:0.99
+Whip My Hair:Willow:Whip My Hair:Pop:0.99
+Today:Smashing Pumpkins:Siamese Dream:Alternative:0.45
+The Cave:Mumford & Sons:Sigh No More:Rock:0.99
+Don't Talk:10,000 Maniacs:In My Tribe:Alternative:0.99
+Because The Night:10,000 Maniacs:Unplugged:Alternative:0.99
+Losing My Religion:REM:Out of Time:Alternative:0.99
+Nightswimming:REM:Automatic for the People:Alternative:0.99
+Little Lion Man:Mumford & Sons:Sigh No More:Rock:0.99
+Verdi Cries:10,000 Maniacs:In My Tribe:Alternative:0.99
+Dog Days Are Over:Florence + The Machine:Lungs:Rock:0.99
+Stand:REM:Green:Alternative:0.25

@@ -1,0 +1,21 @@
+
+public class MadLibs {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String pluralNoun1, pluralNoun2, pluralNoun3, color, adjective;
+		pluralNoun1="birds";
+		pluralNoun2="bats";
+		pluralNoun3="pencils";
+		color="chartruce";
+		adjective="slimy";
+		System.out.println(pluralNoun1+"are"+color);
+		System.out.println(pluralNoun2+"are blue");
+		System.out.println(pluralNoun3+"are"+adjective);
+		System.out.println("and so are you");
+	}
+
+}
