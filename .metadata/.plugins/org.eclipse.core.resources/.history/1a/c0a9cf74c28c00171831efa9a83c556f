@@ -26,7 +26,7 @@ public class LemonadeStand {
 		
 			System.out.println("What's your name?");
 			Name=sc.next();
-			System.out.println("How many glasses of lemonade would you like?"); // this is a change Maybe? blah boo
+			System.out.println("How many glasses of lemonade would you like?"); // this is a change Maybe?
 			numLemonades=sc.nextInt();
 			System.out.println("How many brownies would you like?");
 			numBrownies=sc.nextInt();
