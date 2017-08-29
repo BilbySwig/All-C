@@ -74,6 +74,6 @@ public class LemonadeStand {
 				lastPurchase=true;
 			}
 		}
-		System.out.println("Total Earnings Today: $"+totalEarnings);// its ya boi
+		System.out.println("Total Earnings Today: $"+totalEarnings);
 	}
 }
